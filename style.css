@@ -2,3 +2,20 @@ h1 {
     text-align : center;
     color:green;
             } 
+    .contact-btn {
+
+        display:block;
+        margin: 0 auto 30px;
+        width: 100px;
+        background: rgb(135, 249, 253);
+        color:rgb(80, 54, 54);
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding: 15px 30px;
+        border: 1px solid #a88af3;
+        border-radius: 80px;
+        box-shadow: 10px 10px 20px rgb(0 0 0 / 30%);
+        transition: all 200ms ease-in-out;
+       
+    }
+    
